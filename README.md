@@ -4,3 +4,6 @@ For the Akka with Java 8 JetBrains Webinar 2016-09-13
 Dependencies:
 * Java 8
 * Maven 3
+
+## Testing
+Run `mvn test` to execute the test suite.
